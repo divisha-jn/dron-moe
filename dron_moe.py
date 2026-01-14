@@ -1,4 +1,4 @@
-# dron_moe.py - Complete DRON-MoE Implementation
+# dron_moe.py - DRON-MoE Implementation
 
 import numpy as np
 import torch
