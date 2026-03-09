@@ -14,6 +14,7 @@ __pycache__/
 dist/
 build/
 
+
 # Virtual environments
 env/
 venv/
@@ -26,6 +27,9 @@ dron_env/
 *.png
 *.jpg
 *.pdf
+*.csv
+others/
+results/
 
 # VS Code
 .vscode/
